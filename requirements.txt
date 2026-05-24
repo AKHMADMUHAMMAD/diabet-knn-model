@@ -5,4 +5,4 @@ imbalanced-learn
 joblib
 seaborn
 matplotlib
-jupyter
+
