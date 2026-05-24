@@ -50,7 +50,6 @@ for k in range(1, 25):
     scores.append(score.mean())
 
 best_k = np.argmax(scores) + 1
-print(f"Eng yaxshi K: {best_k}")
 
 # ── 8. Final Pipeline — Imputer + Scaler + Model ─────────────────────────────
 pipeline = Pipeline([
