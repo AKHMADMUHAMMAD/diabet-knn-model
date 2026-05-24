@@ -123,6 +123,15 @@ Yoshi                           : 50
  Ehtimollik : Sog'lom 34.2%  |  Diabet 65.8%
 ========================================
 
+##  Model cheklovlari
+
+Bu loyihada model aniqligi o'rtacha darajada — buning asosiy sabablari:
+
+- Dataset hajmi kichik — atigi 768 ta bemor, bu K-NN kabi masofa asosidagi algoritm uchun yetarli emas
+- Ustunlar zaifligi — `BloodPressure` va `SkinThickness` kabi bir nechta ustunlar `Outcome` bilan korrelyatsiyasi juda past bo'lgani uchun tashlab yuborildi
+- K-NN algoritmi cheklovi — bu algoritm katta va sifatli datasetlarda yaxshi ishlaydi
+
+>  Katta dataset, `Outcome` ustuni bilan korrelyatsiyasi yuqori bo'lgan qo'shimcha ma'lumotlar va sifatli belgilar bilan model ancha yaxshi ko'rsatkichga chiqishi mumkin.
 
 
 ## Texnologiyalar
