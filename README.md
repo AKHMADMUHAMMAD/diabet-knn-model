@@ -123,7 +123,7 @@ Yoshi                           : 50
  Ehtimollik : Sog'lom 34.2%  |  Diabet 65.8%
 ========================================
 
-##  Model cheklovlari
+## !!!  Model cheklovlari
 
 Bu loyihada model aniqligi o'rtacha darajada — buning asosiy sabablari:
 
