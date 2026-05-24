@@ -62,5 +62,5 @@ pipeline = Pipeline([
 pipeline.fit(X_train_res, y_train_res)
 
 # ── 9. Pipeline ni saqlash — bitta fayl! ─────────────────────────────────────
-joblib.dump(pipeline, 'models/pipeline.pkl')
-print("✅ Pipeline saqlandi: models/pipeline.pkl")
+joblib.dump(pipeline, 'pipeline.pkl')
+print(" Pipeline saqlandi: models/pipeline.pkl")
