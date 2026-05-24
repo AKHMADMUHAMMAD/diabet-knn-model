@@ -134,7 +134,7 @@ Yoshi                           : 50
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-green)
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-lightblue)
 
----
+
 
 ## Muallif
 
