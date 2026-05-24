@@ -122,9 +122,8 @@ Yoshi                           : 50
  Tashxis   : DIABET BOR
  Ehtimollik : Sog'lom 34.2%  |  Diabet 65.8%
 ========================================
-```
 
----
+
 
 ## Texnologiyalar
 
